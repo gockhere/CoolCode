@@ -1,0 +1,7 @@
+cart
+
+total price
+
+tax
+checkout
+...
