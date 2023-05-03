@@ -1,4 +1,6 @@
-     cool stuff
-     water ice
-     baby
-     random shit
+trying to make conflict
+
+code
+java
+hello
+world
